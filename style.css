@@ -468,6 +468,9 @@ form textarea{
     section{
         padding: 50px 34px;
     }
+    .skills-bars{
+        width: 100%;
+    }
     .skills-img{
         width: 320px;
     }

@@ -469,7 +469,7 @@ form textarea{
         padding: 50px 34px;
     }
     .skills-bars{
-        width: 100%;
+        max-width: 600px;
     }
     .skills-img{
         width: 320px;
